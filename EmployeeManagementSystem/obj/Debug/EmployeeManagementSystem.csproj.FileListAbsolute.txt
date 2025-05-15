@@ -1,0 +1,57 @@
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Employee.A4622930.Up2Date
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.dll
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.xml
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Employee.A4622930.Up2Date
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EmployeeSearchForm.resources
+C:\ADO.NET final project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.UpdateEmployeeForm.resources

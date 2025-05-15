@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADO.NET final project\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\ado.net final project\\employeemanagementsystem\\employeemanagementsystem\\employeesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\employeesearchform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeesearchform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\updateemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\updateemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\updateemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\updateemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\employeesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\ADO.NET final project\\EmployeeManagementSystem\\employeemanagementsystem\\addemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2120393177:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:363299993:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:766256768:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeSearchForm.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeSearchForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeSearchForm.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeSearchForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeSearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:37:27.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeSearchForm.Designer.cs",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeSearchForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeSearchForm.Designer.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeSearchForm.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeSearchForm.Designer.cs",
+              "ViewState": "AgIAAPsAAACAMzMzM3MkwAcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:01:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:19:12.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAANcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:42:30.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmployeeForm.cs",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\UpdateEmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\UpdateEmployeeForm.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\UpdateEmployeeForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\UpdateEmployeeForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAhwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:15:00.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:37:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\UpdateEmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\UpdateEmployeeForm.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\UpdateEmployeeForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\UpdateEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:14:08.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Dashboard.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:37:25.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:57:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeSearchForm.cs",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeSearchForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeSearchForm.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeSearchForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeSearchForm.cs",
+              "ViewState": "AgIAAHoAAAAAMTMzM/MuwJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:39:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:32:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeData.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeData.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:37:26.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\App.config",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\App.config",
+              "RelativeToolTip": "EmployeeManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T16:37:22.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "ToolTip": "C:\\ADO.NET final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:37:20.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
